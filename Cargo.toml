@@ -1,0 +1,8 @@
+[package]
+name = "start"
+version = "0.1.0"
+edition = "2021"
+description = "Shared Rust components for the start ecosystem"
+
+[dependencies]
+# Add shared Rust crates here later (e.g. egui components, performance-critical modules)

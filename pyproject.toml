@@ -1,0 +1,18 @@
+[project]
+name = "start"
+version = "0.1.0"
+description = "Central bootstrap and architecture hub for Sven Norman Esslinger's ecosystem"
+authors = [{name = "Sven Norman Esslinger", email = "sven@esslinger.com"}]
+readme = "README.md"
+license = {text = "MIT"}
+requires-python = ">=3.11"
+
+[build-system]
+build-backend = "hatchling.build"
+requires = ["hatchling"]
+
+[tool.ruff]
+line-length = 100
+
+[tool.mypy]
+strict = true
