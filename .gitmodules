@@ -1,0 +1,6 @@
+[submodule "experiments/lyra"]
+	path = experiments/lyra
+	url = https://github.com/digitaldesignerjazz/lyra.git
+[submodule "experiments/nexus"]
+	path = experiments/nexus
+	url = https://github.com/digitaldesignerjazz/nexus.git
